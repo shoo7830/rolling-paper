@@ -1,4 +1,5 @@
 import firebase from './services/firebase';
+import './styles/App.scss';
 import Button from "@mui/material/Button";
 
 function App() {
