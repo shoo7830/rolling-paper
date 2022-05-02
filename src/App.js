@@ -6,7 +6,7 @@ import Title from './components/RollingPaperTitle';
 function App() {
   return (
 
-    <><Button variant='contained'>Hello World </Button><Title></Title></>
+    <><Title></Title></>
   );
 }
 
