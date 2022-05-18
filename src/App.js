@@ -1,12 +1,12 @@
 import firebase from './services/firebase';
 import './styles/App.scss';
 import Button from "@mui/material/Button";
-import Title from './components/RollingPaperTitle';
+import RollingPaperTitle from './components/RollingPaperTitle';
 
 function App() {
   return (
 
-    <><Title></Title></>
+    <><RollingPaperTitle></RollingPaperTitle></>
   );
 }
 
